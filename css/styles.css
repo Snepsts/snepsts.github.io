@@ -26,7 +26,17 @@ a, a:hover, a:visited, a:active {
 
 #profileDiv img {
 	float: left;
-	clear: both;
+	/* margin-left: 5%;
+	margin-top: 10%;
+	margin-right: 5%; */
+	margin: 5%;
+	border: 2px groove black;
+}
+
+#profileP {
+	background-color: white;
+	border: 1px solid white;
+	border-radius: 5px;
 }
 
 /*
